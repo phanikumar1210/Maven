@@ -3,6 +3,7 @@
   <groupId>sample</groupId>
   <artifactId>com.sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+	<!--
 <repositories>
     <repository>
       <id>JBoss repository</id>
@@ -12,7 +13,7 @@
       <id>Enonic Repository</id>
       <url>http://repo.enonic.com/public/</url>
     </repository>
-  </repositories>
+  </repositories>-->
   <dependencies>
  	<dependency>
 	    <groupId>junit</groupId>
